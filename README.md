@@ -1,4 +1,4 @@
-# Digital Enthusiast Collective Archived Resources
+# Digital Design HQ Archived Resources
 
 ------------------------------------------------------
 
