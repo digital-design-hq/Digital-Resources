@@ -44,6 +44,7 @@
 * [Synchronizer techniques](https://www.edn.com/electronics-blogs/day-in-the-life-of-a-chip-designer/4435339/Synchronizer-techniques-for-multi-clock-domain-SoCs)
 * [Clock domain crossing - fast to slow clocks](https://www.techdesignforums.com/practice/technique/verifying-clock-domain-crossings-when-using-fast-to-slow-clocks/)
 * [Clock domain crossing issues](https://www.eetimes.com/document.asp?doc_id=1279906&page_number=3)
+* [Yet another division algorithm](https://www.youtube.com/watch?v=yuUhx_MNrwQ)
 
 ------------------------------------------------------
 
@@ -63,6 +64,7 @@
 * [MIPS Assembly](https://www.youtube.com/playlist?list=PL1C2GgOjAF-KYdV5bH-xzoybEHreDZ3Kh)
 * [MIPS Calling Convention](https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf)
 * [CPU Evolution](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)
+* [Graphical Processor Simulator](https://github.com/mortbopet/Ripes)
 
 ### Low Tech
 * [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
@@ -88,6 +90,8 @@
 * [basic-cpu](https://alchitry.com/blogs/tutorials/basic-cpu)
 * [nanoFOX](https://github.com/Dmitriy0111/nanoFOX/tree/02_pipe_risc_v_cpu)
 * [picorv32](https://github.com/cliffordwolf/picorv32)
+* [schoolMIPS](https://github.com/MIPSfpga/schoolMIPS)
+* [NyuziProcessor](https://github.com/jbush001/NyuziProcessor/wiki)
 
 ### Compiler
 * [Compiler Explorer](https://godbolt.org/) - Compile and disassemble code online.
@@ -148,6 +152,9 @@
 * [More FPGA Architecture Details](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/wp/wp-01003.pdf)
 * [OpenFPGA](https://github.com/haojunliu/OpenFPGA)
 * [FPGA Overclocking](http://cas.ee.ic.ac.uk/people/gac1/pubs/KanFCCM13.pdf)
+* [Tranceiver Equalization](https://www.xilinx.com/support/documentation/white_papers/wp419-7Series-XCVR-Equalization.pdf)
+* [Common Cells](https://github.com/pulp-platform/common_cells/tree/master)
+* [I/O Timing Constraints](http://billauer.co.il/blog/2017/04/io-timing-constraints-meaning/)
 
 ### Projects
 * [zipcpu blog](https://zipcpu.com/)
@@ -196,6 +203,8 @@
 * [PCI Express Kernel Driver](http://haifux.org/lectures/256/haifux-pcie.pdf)
 * [Open Source FFT](https://zipcpu.com/dsp/2018/10/02/fft.html)
 * [DisplayPort Verilog](https://github.com/hamsternz/DisplayPort_Verilog)
+* [Apollo Guidance Computer Talk](https://www.youtube.com/watch?v=xx7Lfh5SKUQ&feature=youtu.be)
+* [Simple GPU](http://www.secs.oakland.edu/~llamocca/Courses/ECE495/FinalProject/Group6_simplegpu.pdf)
 
 ------------------------------------------------------
 
@@ -240,3 +249,4 @@
 * [Verilog vs VHDL](https://www.fpga4student.com/2017/08/verilog-vs-vhdl-explain-by-example.html?m=1)
 * [SystemVerilog to Verilog conversion](https://github.com/zachjs/sv2v)
 * [VHDL-SVF](https://github.com/hansiglaser/vhdl-svf)
+* [HDL Reference Designs](https://github.com/analogdevicesinc/hdl)
