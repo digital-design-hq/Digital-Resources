@@ -166,7 +166,7 @@
 ### PCB
 * [CircuitMaker](https://circuitmaker.com/#why_circuitmaker)
 * [Eagle](https://www.autodesk.com/products/eagle/overview)
-* [KiCad](http://kicad-pcb.org/)
+* [KiCad](http://kicad.org/)
 * [JLCPCB](https://jlcpcb.com/quote)
 * [DirtyPCBs](http://dirtypcbs.com/store/pcbs)
 * [OshPark](https://oshpark.com/)
